@@ -2,6 +2,9 @@
 module.exports = {
   content: ["./src/**/*.{js,ts,jsx,tsx}"],
   theme: {
+    fontFamily: {
+      'sans': 'Comfortaa, sans-serif'
+    },
     extend: {},
   },
   plugins: [],
